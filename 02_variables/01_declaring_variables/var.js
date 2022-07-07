@@ -1,0 +1,1 @@
+// var stands for variable. It is used to declare variables globally 

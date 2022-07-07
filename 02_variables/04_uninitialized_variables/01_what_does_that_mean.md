@@ -1,0 +1,1 @@
+this means that the value of a variable is undefined check (02_data_types_explained.md)
