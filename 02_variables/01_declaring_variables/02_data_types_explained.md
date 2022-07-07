@@ -1,9 +1,9 @@
 # Undefined
 
-Undefined means that  avariable hasent been defined or simply put it has only been declared with noting assigned to it for example (var myVar) is undefined  because it has not been initialized ;
+Undefined means that  a variable has not been defined or simply put it has only been declared with noting assigned to it for example (var myVar) is undefined  because it has not been initialized ;
 
 ```js
-let firstName
+let firstName;
 console.log(firstName) //not defined, because it is not assigned to a value yet
 ```
 
@@ -13,7 +13,7 @@ console.log(firstName) //not defined, because it is not assigned to a value yet
 A string is a text  in "" or ''
 
 ```js
-let string = ""
+let string = "";
 
 ```
 
