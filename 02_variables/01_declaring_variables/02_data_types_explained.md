@@ -10,11 +10,19 @@ console.log(firstName) //not defined, because it is not assigned to a value yet
 
 # String 
 
-A string is a text  in "" ,'' or ``
+A string is a text  in "" ,'' or ``.
+Strings are also refferd to as string literals.
 
 ```js
 let string = "";
 
+```
+## Escaping strings 
+
+Lets say you have a string and you want to add a quote inside the string.
+You would do this by using the escape character (\) like so \" \"
+```js
+let quote =" Hi \"I AM A QUOTE \" ";
 ```
 
 # Number
