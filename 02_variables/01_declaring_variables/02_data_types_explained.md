@@ -36,13 +36,13 @@ A number is a number
 Boolean means true or false. The use of these data types will be clear when you start the comparison operator. Any comparisons return a boolean value which is either true or false.
 
 
-## Truthy values
+## Truthy values - Boolean
 
 - All numbers(positive and negative) are truthy except zero
 - All strings are truthy except an empty string ('')
 - The boolean true
 
-## Falsy values
+## Falsy values - Boolean
 
 - 0
 - 0n
@@ -55,7 +55,7 @@ Boolean means true or false. The use of these data types will be clear when you 
 It is good to remember those truthy values and falsy values. 
 
 
-# symbol 
+# Symbol 
 
 A symbol is an immutable primitive value that is unique (more onthat later in ....) 
 
