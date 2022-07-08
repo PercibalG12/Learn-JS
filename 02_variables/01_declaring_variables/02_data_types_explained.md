@@ -17,9 +17,19 @@ let string = "";
 
 ```
 
-Number is a number 
+# Number
 
-null means nothing - this can mean something is set to sokmething an that something is nothing.
+A number is a number 
+
+# Null
+
+ This means nothing but can also mean that  something is set to  nothing.
+ For example an empty string.
+
+ ```js
+ let null = "";
+
+ ```
 
 
 # Boolean
@@ -45,9 +55,13 @@ Boolean means true or false. The use of these data types will be clear when you 
 It is good to remember those truthy values and falsy values. 
 
 
-symbol is an immutable primitive value that is unique (more onthat later in ....) 
+# symbol 
 
-Objects store key value pairs (more on that later in ...)
+A symbol is an immutable primitive value that is unique (more onthat later in ....) 
+
+# Object
+
+An Object stores key value pairs (more on that later in ...)
 
 
 Data types can be divided into two:
@@ -81,4 +95,4 @@ Non-primitive data types are modifiable or mutable. We can modify the value of n
 
 If you struggle to understand the difference between primitive and none-primitive data types don't worry just continue reading and practicing by making up your own exercises and you will get there!
 
- .............................
+ 

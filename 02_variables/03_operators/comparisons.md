@@ -147,8 +147,7 @@ console.log(a = b = 5);
 // expected output: 5
 ```
 
-[credit ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 
 
 
-[credit to the majority of the information](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+[credit ](https://github.com/Asabeneh/30-Days-Of-JavaScript)
