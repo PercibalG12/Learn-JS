@@ -5,7 +5,7 @@ var a = 4;
 // we can do 
 
 a = a - 2;  
-// this works fine but it is a bit repetitive so we can instaed use the compound subtraction operator (-=)
+// this works fine but it is a bit repetitive so we can instead use the compound subtraction operator (-=)
 
 a -= 2;
 

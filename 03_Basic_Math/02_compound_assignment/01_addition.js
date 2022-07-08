@@ -5,7 +5,7 @@ var a = 4;
 // we can do 
 
 a = a + 8;  
-// this works fine but it is a bit repetitive so we can instaed use the compound addition operator (+=)
+// this works fine but it is a bit repetitive so we can instead use the compound addition operator (+=)
 
 a += 8;
 
