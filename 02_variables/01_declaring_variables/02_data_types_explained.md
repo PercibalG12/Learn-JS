@@ -10,7 +10,7 @@ console.log(firstName) //not defined, because it is not assigned to a value yet
 
 # String 
 
-A string is a text  in "" or ''
+A string is a text  in "" ,'' or ``
 
 ```js
 let string = "";
