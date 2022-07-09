@@ -10,13 +10,13 @@ function isResuable(){
 isResuable()
 ```
 
-- The paramater would go inside here 
+- The paramater would go inside the parenthesis ()
 ![Alt text](/img/fun1.PNG "")
 
-- The argument would  would go inside here 
+- The argument would  would go inside the parenthesis ()
 ![Alt text](/img/fun2.PNG "")
 
 ### Whenever a function ius called or invoked the code inside the {} would be ran 
 
 - When the argument ![Alt text](/img/fun2.PNG "") is called then the code 
-![Alt text](/img/fun3.PNG "") would be ran 
+![Alt text](/img/fun3.PNG "") would be executed
