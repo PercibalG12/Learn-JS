@@ -28,6 +28,16 @@ let quote =" \"To be or not to be\" - William Shakespeare";
 // In a browser or terminal console this woud return " "To be or not to be " - William Shakespeare " without the escape character (\)
 ```
 
+Additionally we can escape strings by simply using single quotes to eliminate the use of the escape character.
+
+```js
+
+let quote = ' "To be or not to be" - William Shakespeare';
+```
+
+## Escape seceuence - String
+ [view](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1518&authuser=0)
+
 # Number
 
 A number is a number 
