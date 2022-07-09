@@ -1,4 +1,4 @@
-![Alt text](/img/concat1.PNG.PNG "Concat results")
+![Alt text](/img/concat1.PNG "Concat results")
 
 # How did I run this in my terminal and not the browser?
 
