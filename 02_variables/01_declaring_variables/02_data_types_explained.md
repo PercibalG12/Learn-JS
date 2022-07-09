@@ -20,10 +20,8 @@ let string = "";
 ## Escaping strings 
 
 Lets say you have a string and you want to add a quote inside the string.
-You would do this by using the escape character (\) like so \" \".
-```js
-let quote =" \"To be or not to be\" - William Shakespeare";
-```
+You would do this by using the escape character  [view here](/02_variables/01_declaring_variables/string.js)
+
 
 # Number
 
