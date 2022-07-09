@@ -20,3 +20,13 @@ isResuable()
 
 - When the argument ![Alt text](/img/fun2.PNG "") is called then the code 
 ![Alt text](/img/fun3.PNG "") would be executed
+
+
+## function with paramaters and arguments 
+```js
+function funcWithParamsAndArgs(a,b){
+    console.log(a - b);
+}
+funcWithParamsAndArgs(10,5)
+```
+- The argument 10 replaces the placeholder value of the parameter a and the same is true for 5 and b.When the function is called it would return 5 since we are logging a - b  which results to 10 - 5
