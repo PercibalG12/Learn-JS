@@ -9,16 +9,10 @@ let age = 100 // age in years
 let isMarried = true
 
 
-function adder(number) {
-    let sum =0; //focus here
-    for(var i in numbers){
-        var numberToAdd = numbers[i];
-        sum = sum + numberToAdd;
-    }
-    console.log(numberToAdd);
-    return sum;
-}
-
+function myTest() {
+    let loc = "foo"; // focus here 
+    console.log(loc);
+  }
 
 
 
