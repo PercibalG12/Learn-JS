@@ -24,7 +24,7 @@ for(let i = 0; i <= 5; i++){
 }
 ```
 
-![Foor loop 1 example](/img/for%20loop_Trim.mp4 "For loop 1 example")
+![Foor loop 1 example](/img/for%20loop_Trim.gif "For loop 1 example")
 
 
 
@@ -40,7 +40,7 @@ for(let i = 0; i < countries.length; i++){
 
 ```
 
-![Foor loop 1 example](/img/forrrr_Trim.mp4 "For loop 2 example")
+![Foor loop 2 example](/img/forrrr_Trim.gif "For loop 2 example")
 - In the above example we are using a For loop to loop through an array and convert the existing countries to uppercase.
 
 Adding all elements in the array
