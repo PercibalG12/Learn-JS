@@ -1,6 +1,7 @@
-const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland']
-const newArr = []
-for(let i = 0; i < countries.length; i++){
-  newArr.push(countries[i].toUpperCase())
+let language = "JavaScript";
+
+let text = "I love ";
+for (let x of language) {
+text += x;
 }
-console.log(newArr)
+console.log(text)
