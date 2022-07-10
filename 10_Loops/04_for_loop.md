@@ -79,3 +79,21 @@ for(let i = 0; i < countries.length; i++){
 
 console.log(newArr)  // ["FINLAND", "SWEDEN", "NORWAY", "DENMARK", "ICELAND"]
 ```
+
+```js
+var ourArray =[]
+for(var i=0; i <10; i+=2){
+ourArray.push(i);
+}
+console.log(ourArray)
+
+```
+
+```js
+var myArray =[];
+
+for (var i=10; 1> 0; i-=2){
+myArray.push(i);
+}
+console.log(myArray)
+```
