@@ -12,7 +12,7 @@ while (condition);
 ```
 
 
-- Example 2
+- Example 
 
 ```js
 
@@ -25,6 +25,6 @@ do {
 
 ```
 
-![Example 2](/img/dowhile.PNG.PNG "do while loop")
+![Example 2](/img/dowhile.PNG "do while loop")
 
 The results shows that the console logged out 0 first as it was stated so in the code block then it checked the condition to see if i was less than or equal t0 5 and looped over the numbers until it arrived at 5 
