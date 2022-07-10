@@ -1,8 +1,6 @@
-let  i = 3;
-let text = "heya user";
+let i = 0
+do {
+  console.log(i)
+  i++
+} while (i <= 5)
 
-while (i < 10) {
-    text += "The number is " + i;
-    i++;
-    console.log(i)
-  }
