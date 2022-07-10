@@ -24,7 +24,8 @@ while (i < 10) {
     console.log(i)
   }
 ```
-[Example 1](/img/while1.PNG)
+
+![Example 1](/img/while1.PNG "while loop 1")
 
 - Example 2
 ```js
@@ -36,7 +37,7 @@ while (i <= 5) {
 
 ```
 - Console.log example 2
-[Example 2](/img/while2.PNG)
+![Example 2](/img/while2.PNG "while loop 2")
 
 - NB:  If you forget to increase the variable used in the condition, the loop will never end. This will crash your browser.
 
