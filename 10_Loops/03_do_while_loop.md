@@ -1,14 +1,11 @@
-# while loop
+# do while loop
 
 ```js
 let i = 0
-while (i <= 5) {
+do {
   console.log(i)
   i++
-}
+} while (i <= 5)
 
 // 0 1 2 3 4 5
 ```
-
-
-
