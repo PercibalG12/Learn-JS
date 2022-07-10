@@ -12,7 +12,7 @@ while (condition);
 ```
 
 
-- Example 
+- Example -1
 
 ```js
 
@@ -21,7 +21,6 @@ do {
   console.log(i)
   i++
 } while (i <= 5)
-
 
 ```
 

@@ -1,5 +1,8 @@
 # for Loop
 
+loops through a block of code a number of times
+
+- Syntax 
 ```js
 // For loop structure
 for(initialization, condition, increment/decrement){
@@ -7,36 +10,26 @@ for(initialization, condition, increment/decrement){
 }
 ```
 
+- Initilization is executed (one time) before the execution of the code block.
+
+- Condition specifies the condition for executing the code block.
+
+-  increment/decrement is executed (every time) after the code block has been executed.
+
+
+- Example 1 
 ```js
 for(let i = 0; i <= 5; i++){
   console.log(i)
 }
-
-// 0 1 2 3 4 5
 ```
 
-```js
-for(let i = 5; i >= 0; i--){
-  console.log(i)
-}
+![Foor loop 1 example](/img/for%20loop_Trim.mp4 "For loop 1 example")
 
-// 5 4 3 2 1 0
-```
 
-```js
-for(let i = 0; i <= 5; i++){
-  console.log(`${i} * ${i} = ${i * i}`)
-}
-```
 
-```sh
-0 * 0 = 0
-1 * 1 = 1
-2 * 2 = 4
-3 * 3 = 9
-4 * 4 = 16
-5 * 5 = 25
-```
+
+- Example 2
 
 ```js
 const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland']
@@ -45,8 +38,10 @@ for(let i = 0; i < countries.length; i++){
   newArr.push(countries[i].toUpperCase())
 }
 
-// ["FINLAND", "SWEDEN", "DENMARK", "NORWAY", "ICELAND"]
 ```
+
+![Foor loop 1 example](/img/forrrr_Trim.mp4 "For loop 2 example")
+- In the above example we are using a For loop to loop through an array and convert the existing countries to uppercase.
 
 Adding all elements in the array
 
