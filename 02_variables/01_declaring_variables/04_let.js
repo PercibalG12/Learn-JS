@@ -21,3 +21,5 @@ let name = 'Asabeneh', //name of a person
   job = 'teacher',
   live = 'Finland'
 
+
+  // you cannot declare variables twice with let 
