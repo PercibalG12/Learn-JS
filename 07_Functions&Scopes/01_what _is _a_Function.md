@@ -30,3 +30,45 @@ function funcWithParamsAndArgs(a,b){
 funcWithParamsAndArgs(10,5)
 ```
 - The argument 10 replaces the placeholder value of the parameter a and the same is true for 5 and b.When the function is called it would return 5 since we are logging a - b  which results to 10 - 5.
+
+
+# Function with default parameters
+
+Sometimes we pass default values to parameters, when we invoke the function if we do not pass an argument the default value will be used. Both function declaration and [arrow function](/14_Arrow_functions/01_arrow_function.md) can have a default value or values.
+
+```js
+// syntax
+// Declaring a function
+function functionName(param = value) {
+  //codes
+}
+
+// Calling function
+functionName()
+functionName(arg)
+
+```
+
+```js
+
+function greetings(name = 'Peter') {
+  let message = `${name}, welcome to 30 Days Of JavaScript!`
+  return message
+}
+
+console.log(greetings())
+console.log(greetings('Asabeneh'))
+```
+
+
+```js
+
+function generateFullName(firstName = 'Asabeneh', lastName = 'Yetayeh') {
+  let space = ' '
+  let fullName = firstName + space + lastName
+  return fullName
+}
+
+console.log(generateFullName())
+console.log(generateFullName('David', 'Smith'))
+```
