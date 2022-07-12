@@ -12,16 +12,9 @@ Each element in an array is separated by commas.
 
 # How to create an empty array
 
-In JavaScript, we can create an array in different ways.  It is very common to use const instead of let to declare an array variable. If you ar using const it means you do not use that variable name again.
+In JavaScript, we can create an array in different ways.  It is very common to use const instead of let to declare an array variable. If you are using const it means you do not use that variable name again.
 
-* Using Array constructor
-```js
-// syntax
-const arr = Array()
-// or
-// let arr = new Array()
-console.log(arr) // []
-```
+
 
 * Using square brackets([])
 ```js
@@ -35,6 +28,14 @@ console.log(array)
 
 ```
 
+* Using Array constructor
+```js
+// syntax
+const arr = Array()
+// or
+// let arr = new Array()
+console.log(arr) // []
+```
 
 - Array can have items of different data types
 
@@ -48,7 +49,6 @@ const arr = [
 ] // arr containing different data types
 console.log(arr)
 ```
-
 
 
 
