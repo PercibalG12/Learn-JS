@@ -38,6 +38,19 @@ let quote = ' "To be or not to be" - William Shakespeare';
 ## Escape seceuence - String
  [view](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=1518&authuser=0)
 
+
+ ### Template literals - strings
+
+ A template literal is a way of writing complex strings using backticks (``) 
+```js
+ const PERSON = {
+    age : 44,
+    name: "Jake"
+ }
+
+ const message = `Hi my name is ${Person.name}`
+ ```
+
 # Number
 
 A number is a number 
