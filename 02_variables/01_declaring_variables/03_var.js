@@ -1,7 +1,9 @@
-// var stands for variable. It is used to declare variables globally 
-// you can use var to declare variables twice
+// var stands for variable. It is used to declare variables globally  scoped or function scoped
 
-var catName = "meow";
+
+var number = 10;
+
+var catName = "kitty";
 var catName ="whiskers"
 
-// if we do a console.log whiskers would tke precidence over meow
+// if we do a console.log whiskers would tke precidence over kitty

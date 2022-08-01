@@ -1,18 +1,15 @@
 /* let allows you to declare variables that are limited to the scope of a block statement 
    or expression  on which it is used  ( more on this later)*/
 
-let firstName = 'Asabeneh' // first name of a person
-let lastName = 'Yetayeh' // last name of a person
-let country = 'Finland' // country
+let  firstName = 'Percival' // first name of a person
+let lastName = 'James' // last name of a person
+let country = 'Jamaica' // country
 let city = 'Helsinki' // capital city
-let age = 100 // age in years
-let isMarried = true
+let age = 19 // age in years
+let isMarried = false // boolean value 
 
+ 
 
-function myTest() {
-    let loc = "foo"; // focus here 
-    console.log(loc);
-  }
 
 
 
@@ -22,4 +19,15 @@ let name = 'Asabeneh', //name of a person
   live = 'Finland'
 
 
-  // you cannot declare variables twice with let 
+
+
+  function findX(){
+    let x = 1;
+   console.log(x)
+    {
+      let x =2;
+      // console.log(x)
+    }
+  }
+
+  findX()

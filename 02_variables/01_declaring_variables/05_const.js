@@ -7,4 +7,16 @@ const boilingPoint = 100 // water boiling point, temperature in oC
 const PI = 3.14 // geometrical constant
 
 
+
+
+
    
+const number = 40;
+
+// try{
+//     number = 100;
+// } catch(err){
+//   console.log(err)
+// }
+
+console.log(number)
