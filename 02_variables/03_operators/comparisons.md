@@ -43,10 +43,9 @@ console.log('python'.length > 'dragon'.length)   // false
 
 Try to understand the above comparisons with some logic. Remembering without any logic might be difficult. JavaScript is somehow a wired kind of programming language. JavaScript code run and give you a result but unless you are good at it may not be the desired result.
 
-As rule of thumb, if a value is not true with == it will not be equal with ===. Using === is safer than using ==. The following link has an exhaustive list of comparison of data types.
-
+As rule of thumb, if a value is not true with == it will not be equal with ===. Using === is safer than using ==. 
 ## Logical Operators
-The following symbols are the common logical operators: &&(ampersand) , ||(pipe) and !(negation). The && operator gets true only if the two operands are true. The || operator gets true either of the operand is true. The ! operator negates true to false and false to true.
+The following symbols are the common logical operators: &&(ampersand) , ||(pipe) and !(negation). The && operator returns  true only if the two operands are true. The || operator returns true if either of the operands are true. The ! operator negates true to false and false to true (simply put it flips the value ).
 
 ```js
 // && ampersand operator example
