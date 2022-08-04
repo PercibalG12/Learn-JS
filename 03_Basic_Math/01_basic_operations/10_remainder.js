@@ -1,10 +1,9 @@
 /*  the ramainder operator (%) gets the remainder of the division of two numbers. 
  */
 
-var remainder;
-remainder = 11 % 5;
-
-
+var remainder = 11 % 3;
+ 
+console.log(remainder)
 
 
 // use cases
