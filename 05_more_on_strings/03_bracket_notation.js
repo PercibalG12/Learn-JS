@@ -3,7 +3,7 @@
 
 var firstName = "Percival"
 
-firstLetterOfFirstName = firstName[0];
+firstLetterOfFirstName = firstName[5];
 console.log(firstLetterOfFirstName)
 
 /*  the brackets [] with the number 0 reffers to the bracket notation 
