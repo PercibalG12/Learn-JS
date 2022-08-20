@@ -1,6 +1,6 @@
 # Sorting elements in array
 
-sort: arrange array elements in ascending order. Sort takes a call back function, we will see how we use sort with a call back function in the coming sections.
+The sort() method  overwrites the original array. The sort() method  sorts the elements as strings in alphabetical and ascending order.
 
 ```js
 const webTechs = [
@@ -16,8 +16,6 @@ const webTechs = [
 webTechs.sort()
 console.log(webTechs) // ["CSS", "HTML", "JavaScript", "MongoDB", "Node", "React", "Redux"]
 
-webTechs.reverse() // after sorting we can reverse it
-console.log(webTechs) // ["Redux", "React", "Node", "MongoDB", "JavaScript", "HTML", "CSS"]
 ```
 
 

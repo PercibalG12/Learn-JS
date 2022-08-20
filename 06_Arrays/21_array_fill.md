@@ -1,9 +1,11 @@
 # Creating static values with fill
 
-fill: Fill all the array elements with a static value
+The fill() method fills specified elements in an array with a value. It overwrites the original array.
+
+The start and end position can be specified. If not, all elements will be filled.
 
 ```js
-const arr = Array() // creates an an empty array
+const arr = Array() // creates an an empty array using array constructor 
 console.log(arr)
 
 const eightXvalues = Array(8).fill('X') // it creates eight element values filled with 'X'

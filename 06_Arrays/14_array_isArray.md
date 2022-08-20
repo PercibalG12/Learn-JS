@@ -1,6 +1,14 @@
-# Checking array
+# Checking if an object is an  array
 
-Array.isArray:To check if the data type is an array
+The isArray() method returns true if an object is an array, otherwise false.
+
+You can only use it as Array.isArray().
+
+Using x.isArray(), where x is an array will return undefined.
+
+<!-- syntax
+Array.isArray(obj)
+ -->
 
 ```js
 const numbers = [1, 2, 3, 4, 5]

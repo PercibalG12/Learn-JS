@@ -1,23 +1,27 @@
 # Concatenating array using concat
 
-concat:To concatenate two arrays.
+The concat() method concatenates (joins) two or more arrays. It returns a new array, containing the joined arrays. The concat() method does not change the existing arrays.
 
 ```js
-const firstList = [1, 2, 3]
-const secondList = [4, 5, 6]
-const thirdList = firstList.concat(secondList)
+// concat 2 arrays 
 
-console.log(thirdList) // [1, 2, 3, 4, 5, 6]
+const arr1 = ["Cecilie", "Lone"];
+const arr2 = ["Emil", "Tobias", "Linus"];
+const arr3 = arr1.concat(arr2);
+console.log(arr3)
 ```
+
+
 
 ```js
-const fruits = ['banana', 'orange', 'mango', 'lemon']                 // array of fruits
-const vegetables = ['Tomato', 'Potato', 'Cabbage', 'Onion', 'Carrot'] // array of vegetables
-const fruitsAndVegetables = fruits.concat(vegetables)                 // concatenate the two arrays
-
-console.log(fruitsAndVegetables)
+// concat 3 arrays 
+const arr1 = ["Cecilie", "Lone"];
+const arr2 = ["Emil", "Tobias", "Linus"];
+const arr3 = ["Robin"];
+const children = arr1.concat(arr2, arr3);
+console.log(children)
 ```
 
-```sh
-["banana", "orange", "mango", "lemon", "Tomato", "Potato", "Cabbage", "Onion", "Carrot"]
-```
+
+
+
