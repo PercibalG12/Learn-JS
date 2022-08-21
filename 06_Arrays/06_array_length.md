@@ -10,7 +10,7 @@ console.log(numbers.length) // -> 5 is the size of the array
 ```js
 const numbers = [0, 4, 18, 37, 98, 100] 
 const vegetables = ['Tomato', 'Potato', 'Carrot'] 
-const ytChannels = ['cods', 'javascriptmastery', 'webdevsimplifiesd', 'aniakubow','freecodecamp'] 
+const ytChannels = ['cods', 'javascriptmastery', 'webdevsimplified', 'aniakubow','freecodecamp'] 
 const webtechnologies = ['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'MongDB'] 
 
 

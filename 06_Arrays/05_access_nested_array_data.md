@@ -5,7 +5,7 @@ We do this by using bracket notation.The first notation points to the index of t
 - For example
 
 ```js
-const arr = [["PERCI", 42], [1]];
+const arr = [["PERCI", 42], [1, 4, 6, 8, 9, 0]];
 const ourArr =  arr [1][0]
 console.log(ourArr)
 /* It would return the element 1  as the first notation points

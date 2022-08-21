@@ -6,8 +6,6 @@ The indexOf() method returns the first index (position) of a specified value. If
 const numbers = [1, 2, 3, 4, 5]
 
 console.log(numbers.indexOf(5)) // -> 4
-console.log(numbers.indexOf(0)) // -> -1
-console.log(numbers.indexOf(1)) // -> 0
 console.log(numbers.indexOf(6)) // -> -1
 ```
 

@@ -4,7 +4,7 @@
 
 ```js
 const myArr = [1,2,3];
-myArr[0] =45 ;
+myArr[0] = 45 ;
 console.log(myArr)
 // It would return [ 45, 2, 3 ]
 

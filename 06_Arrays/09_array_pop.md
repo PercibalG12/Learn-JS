@@ -1,4 +1,4 @@
-# We can remove data from an  arry with the pop function 
+# We can remove data from an array with the pop function 
 
 ```js
 const ourArr = ["hey", 1]

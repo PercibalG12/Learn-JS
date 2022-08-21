@@ -16,9 +16,4 @@ console.log(companies) // ["Facebook", " Google", " Microsoft", " Apple", " IBM"
 
 ```
 
-<!-- let string = "HelloWorld"
-let newString = string.split("")
-console.log(newString) -->
-
-<!-- use code pen  -->
 

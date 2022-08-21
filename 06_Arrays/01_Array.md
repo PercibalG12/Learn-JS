@@ -34,16 +34,7 @@ console.log(arry)
 
 ```
 
-* Using Array constructor
-- A constructor is a special type of function that creates and initializes an object instance of a class. We will explore constructors later on when looking at Objects in Javascript.
-```js
 
-// syntax
-const arr = Array()
-// or
-let arr = new Array()
-console.log(arr) // []
-```
 
 
 
